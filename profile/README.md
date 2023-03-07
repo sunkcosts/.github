@@ -1,3 +1,3 @@
 # Sunk Costs
 
-Will add description later.
+A list of repositories and their descriptions will be included below.
